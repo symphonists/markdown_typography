@@ -25,7 +25,7 @@
 			);
 		}
 		
-		private function __refineTypography(&$string) {
+		public function refineTypography(&$string) {
 		
 			// Set opening double quotes
 			$string = str_replace(array(
@@ -85,7 +85,7 @@
 			$string = SmartyPants($string, 1);
 			
 			// Refine typography
-			$this->__refineTypography($string);
+			$this->refineTypography($string);
 			
 			// Return result
 			return $string;

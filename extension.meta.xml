@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="markdown_typography" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Markdown Typography</name>
+	<description>Markdown Extra, Smartypants and typographic refinements for Symphony.</description>
+	<repo type="github">https://github.com/nilshoerrmann/markdown_typography</repo>
+	<url type="discuss">http://symphony-cms.com/discuss/thread/68618/</url>
+	<types>
+		<type>Text Formatter</type>
+	</types>
+	<authors>
+		<author>
+			<name github="nilshoerrmann" symphony="Nils">Nils Hörrmann</name>
+			<website>http://nilshoerrmann.de</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0.1" date="2011-12-13" min="2.1.0" max="2.2.5">
+			- Added `extension.meta.xml`
+		</release>
+		<release version="1.0" date="2011-05-10" min="2.1.0" max="2.2.5">
+			- Initial release
+		</release>
+	</releases>
+</extension>

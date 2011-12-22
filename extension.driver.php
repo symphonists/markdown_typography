@@ -8,7 +8,7 @@
 		public function about() {
 			return array(
 				'name' => 'Text Formatter: Markdown Typography',
-				'version' => '1.1',
+				'version' => '1.1,1',
 				'release-date' => '2011-12-22',
 				'author' => array(
 					'name' => 'Nils Hörrmann',

@@ -1,6 +1,6 @@
 <?php
 	
-	require_once(EXTENSIONS . '/markdown_typography/text-formatters/formatter.markdown_typography_german.php');
+	require_once(EXTENSIONS . '/markdown_typography/text-formatters/formatter.markdown_typography.php');
 
 	Class formatterSmartypants_typography extends formatterMarkdown_typography {
 	

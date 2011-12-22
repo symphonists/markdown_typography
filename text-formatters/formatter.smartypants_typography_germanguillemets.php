@@ -1,6 +1,6 @@
 <?php
 	
-	require_once(EXTENSIONS . '/markdown_typography/text-formatters/formatter.markdown_typography_german.php');
+	require_once(EXTENSIONS . '/markdown_typography/text-formatters/formatter.markdown_typography_germanguillemets.php');
 
 	Class formatterSmartypants_typography_germanguillemets extends formatterMarkdown_typography_germanguillemets {
 	
@@ -8,7 +8,7 @@
 			return array(
 				'name' => __('Smartypants Typography') . ' (' . __('German with guillemets') . ')',
 				'version' => '1.0',
-				'release-date' => '2011-06-23',
+				'release-date' => '2011-12-22',
 				'author' => array(
 					'name' => 'Nils Hörrmann',
 					'website' => 'http://nilshoerrmann.de',

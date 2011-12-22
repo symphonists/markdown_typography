@@ -2,7 +2,7 @@
 	
 	require_once(EXTENSIONS . '/markdown_typography/text-formatters/formatter.markdown_typography_german.php');
 
-	Class formatterSmartypants_typography_german extends formatterMarkdown_typography_german {
+	Class formatterSmartypants_typography extends formatterMarkdown_typography {
 	
 		public function about() {
 			return array(

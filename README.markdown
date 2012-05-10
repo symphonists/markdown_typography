@@ -1,4 +1,4 @@
-# Markdown Typography #
+# Markdown Typography
 
 This extension provides Markdown Extra formatting with Smartypants and additional typographic refinements:
 

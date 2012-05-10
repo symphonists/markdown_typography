@@ -15,8 +15,6 @@
 	 */
 	$dictionary = array(
 
-		// Missing
-
 		'Markdown Typographer' => 
 		'Markdown Typografie',
 

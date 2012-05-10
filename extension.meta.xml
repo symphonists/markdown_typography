@@ -2,7 +2,7 @@
 <extension id="markdown_typography" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Markdown Typography</name>
 	<description>Markdown Extra, Smartypants and typographic refinements for Symphony.</description>
-	<repo type="github">https://github.com/nilshoerrmann/markdown_typography</repo>
+	<repo type="github">https://github.com/hananils/markdown_typography</repo>
 	<url type="discuss">http://symphony-cms.com/discuss/thread/68618/</url>
 	<types>
 		<type>Text Formatter</type>

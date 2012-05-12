@@ -1,7 +1,7 @@
 <?php
 
 	$about = array(
-		'name' => '',
+		'name' => 'Deutsch',
 		'author' => array(
 			'name' => 'Nils Hörrmann',
 			'email' => 'post@nilshoerrmann.de',

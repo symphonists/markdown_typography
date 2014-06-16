@@ -18,19 +18,22 @@
 		</author>
 	</authors>
 	<releases>
-		<release version="2.0" date="2012-05-10" min="2.3">
+		<release version="2.1.0" date="2014-06-16" min="2.4.0">
+			- Switched from Markdown to Parsedown
+		</release>
+		<release version="2.0.0" date="2012-05-10" min="2.3.0">
 			- Symphony 2.3 compatibility
 		</release>
 		<release version="1.1.1" date="2011-12-22" min="2.1.0" max="2.2.5">
 			- Fix wrong class references
 		</release>
-		<release version="1.1" date="2011-12-22" min="2.1.0" max="2.2.5">
+		<release version="1.1.0" date="2011-12-22" min="2.1.0" max="2.2.5">
 			- Added Smartypants (English) and Smartypants (German with Guillemets)
 		</release>
 		<release version="1.0.1" date="2011-12-13" min="2.1.0" max="2.2.5">
 			- Added `extension.meta.xml`
 		</release>
-		<release version="1.0" date="2011-05-10" min="2.1.0" max="2.2.5">
+		<release version="1.0.0" date="2011-05-10" min="2.1.0" max="2.2.5">
 			- Initial release
 		</release>
 	</releases>

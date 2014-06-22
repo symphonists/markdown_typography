@@ -81,6 +81,7 @@ Class formatterMarkdown_typography_german extends TextFormatter {
     {
         // Apply Markdown Extra
         $Parsedown = new ParsedownExtra();
+        $Parsedown = $Parsedown->setBreaksEnabled(true);
         $string = $Parsedown->text($string);
 
         // Apply SmartyPants

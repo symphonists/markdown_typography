@@ -18,6 +18,9 @@
 		</author>
 	</authors>
 	<releases>
+		<release version="2.2.0" date="2014-06-22" min="2.4.0">
+			- Enabled line breaks by default
+		</release>
 		<release version="2.1.0" date="2014-06-16" min="2.4.0">
 			- Switched from Markdown to Parsedown
 			- Fixed code style

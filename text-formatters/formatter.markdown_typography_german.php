@@ -79,6 +79,11 @@ Class formatterMarkdown_typography_german extends TextFormatter {
 
     public function run($string)
     {
+        // Unify double quotes
+        $string = str_replace(array(
+            '“', '„'
+        ), '"', $string);
+
         // Apply Markdown Extra
         $Parsedown = new ParsedownExtra();
         $Parsedown = $Parsedown->setBreaksEnabled(true);

@@ -4,7 +4,7 @@ This extension provides Markdown Extra formatting with Smartypants and additiona
 
 - Markdown Typography (English)
 - Markdown Typography (German)
-- Markdwon Typography (German with Guillemets)
+- Markdown Typography (German with Guillemets)
 - Smartypants (English)
 - Smartypants (German)
 - Smartypants (German with Guillemets)

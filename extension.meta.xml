@@ -18,7 +18,7 @@
 		</author>
 	</authors>
 	<releases>
-	  <release version="2.2.1" date="2017-03-20" min="2.4.0">
+	  <release version="2.2.1" date="2017-03-20" min="2.4.0" max="2.x.x">
 			- PHP7 compatibility fix
 		</release>
 		<release version="2.2.0" date="2014-06-22" min="2.4.0">
